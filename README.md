@@ -16,24 +16,6 @@ A collection of powerful Python automation scripts designed to simplify and auto
 
 ---
 
-## 📁 Project Structure
-
-```
-python-automation-scripts/
-│
-├── auto_form_filler/        # Auto-fill Google Forms with dummy data
-├── auto_file_organizer/     # Organize files in folders based on type
-├── auto_email_sender/       # Send emails with attachments to multiple recipients
-├── auto_web_scraper/        # Scrape data and save to CSV
-├── auto_whatsapp_sender/    # Send WhatsApp messages at scheduled times
-├── auto_pdf_merger/         # Merge multiple PDF files into one
-│
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## ⚙️ Installation
 
 1. **Clone the repo**
