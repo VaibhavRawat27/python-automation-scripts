@@ -39,23 +39,8 @@ pip install -r requirements.txt
 
 ## 🧪 Scripts Overview
 
-### 1. `auto_form_filler`
+### 1. `auto desktop wallpaper changer`
 Auto-submits Google Forms using Selenium and random data.
-
-### 2. `auto_file_organizer`
-Sorts and moves files from a folder into categorized subfolders.
-
-### 3. `auto_email_sender`
-Sends emails with attachments using SMTP and a contact list.
-
-### 4. `auto_web_scraper`
-Scrapes website data (e.g., headlines) and saves it as CSV.
-
-### 5. `auto_whatsapp_sender`
-Sends scheduled WhatsApp messages to contacts via web.
-
-### 6. `auto_pdf_merger`
-Merges all PDFs from a folder into one clean file.
 
 ---
 
